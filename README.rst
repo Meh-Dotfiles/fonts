@@ -24,6 +24,7 @@ You can copy and paste the commands to your terminal. Comments are fine too.
     # clean-up a bit
     cd ..
     rm -rf fonts
+    # I use Meslo LG L DZ for Poweline Regular 12
 
 
 Font Families

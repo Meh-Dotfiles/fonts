@@ -10,15 +10,13 @@ Installation
 ------------
 via curl
 
-``
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/Meh-Dotfiles/oh-my-zsh/master/tools/install.sh)"
-``
+`` sh -c "$(curl -fsSL https://raw.githubusercontent.com/Meh-Dotfiles/oh-my-zsh/master/tools/install.sh)"
+
 
 via wget
 
-``
-sh -c "$(wget https://raw.githubusercontent.com/Meh-Dotfiles/oh-my-zsh/master/tools/install.sh -O -)"
-``
+`` sh -c "$(wget https://raw.githubusercontent.com/Meh-Dotfiles/oh-my-zsh/master/tools/install.sh -O -)"
+
 
 
 Run ``./install.sh`` to install all Powerline Fonts or see the documentation_ for details.

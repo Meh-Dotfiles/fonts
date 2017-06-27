@@ -7,14 +7,12 @@ the `Powerline <https://github.com/powerline/powerline>`_ statusline plugin.
 
 
 Installation
-===========
+-------------
 Via Curl
---------
 ::
    sh -c "$(curl -fsSL https://raw.githubusercontent.com/Meh-Dotfiles/oh-my-zsh/master/tools/install.sh)"
 
 Via Wget
---------
 ::
    sh -c "$(wget https://raw.githubusercontent.com/Meh-Dotfiles/oh-my-zsh/master/tools/install.sh -O -)"
 

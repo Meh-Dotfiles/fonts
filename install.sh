@@ -1,8 +1,7 @@
 #!/bin/bash
-
-mkdir /tmp/.meh-fonts
-env git clone https://github.com/Meh-Dotfiles/fonts.git /tmp/.meh-fonts
-cd /tmp/.meh-fonts
+cd /tmp
+env git clone https://github.com/Meh-Dotfiles/fonts.git
+cd /tmp/fonts
 ./install-fonts.sh
 cd 
-rm -rf /tmp/.meh-fonts
+rm -rf /tmp/fonts

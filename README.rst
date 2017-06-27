@@ -12,9 +12,7 @@ via curl
 ::
    sh -c "$(curl -fsSL https://raw.githubusercontent.com/Meh-Dotfiles/oh-my-zsh/master/tools/install.sh)"
 
-
-via wget
-
+via curl
 ::
    sh -c "$(wget https://raw.githubusercontent.com/Meh-Dotfiles/oh-my-zsh/master/tools/install.sh -O -)"
 
